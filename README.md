@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, 
+This is Dingchang Shi and feel free to call me Vane! I am currently and completing PhD student in Biomedical Sciences at the University of Auckland, specialising in Computational Biology. I am passonate about using data to make real world decisions ranging from academia to industry.  
 
 <!--
 **Dingchang-UoA/Dingchang-UoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
