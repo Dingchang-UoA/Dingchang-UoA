@@ -1,9 +1,9 @@
 ## Hi there 👋, I am Dingchang Shi. Feel free to call me Vane!
 
-I'm a completing PhD student in **Biomedical Sciences** at the **University of Auckland**, specialising in **Computational Biology**. My work bridges biology, data science, and high‑performance computing to uncover insights that support real‑world decision‑making in both **academia** and **industry**.
+I'm a completing PhD student in **Biomedical Sciences** at the **University of Auckland**, specialising in **Computational Biology**. Also, I work as a data scientist in the lab to support peer researchers to tranform the complex biological data into meaningful insights. My work bridges biology, data science, statistics and mathametical modelling to infom decision‑making in both **academia** and **industry**.
 
 ### 🔬 What I Work On
-- 🧬 Spatial and computational metabolomics  
+- 🧬 Spatial metabolomics and medical imaging   
 - 🧠 Machine learning and multivariate modelling  
 - 🧹 Reproducible pipelines & workflow optimisation  
 - 📊 Turning complex biological data into intrepretable and actionable insights  
@@ -12,9 +12,9 @@ I'm a completing PhD student in **Biomedical Sciences** at the **University of A
 I’m passionate about using data to solve meaningful problems from understanding biological systems to supporting evidence‑based decisions that make an impact beyond the lab.
 
 ### 🛠 Tech & Tools
-- **Languages:** R, Python, SQL, HTML   
-- **Core Skills:** Data science, statistical modelling, image analysis, workflow automation  
-- **Tools:** VS Code, R Studio, Git/GitHub, Jupyter, Linux  
+- **Languages:** R, Python, SQL, , MATLAB, HTML   
+- **Core Skills:** Data Science, Statistical Modelling & Predictive Analytics, Machine Learning, Image Analysis, Workflow Automation, Data Visualisation
+- **Tools:** VS Code, R Studio, Git/GitHub, Jupyter, Linux, Stata, Tableau, Power BI
 
 ### 📫 Let’s Connect
 If you're into data, tech, or research of any kind, feel free to reach out. I’d love to connect and collaborate!
