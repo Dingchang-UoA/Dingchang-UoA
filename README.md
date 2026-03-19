@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Dingchang Shi. Feel free to call me Vane!
 
-I'm a PhD student in **Biomedical Sciences** at the **University of Auckland**, specialising in **Computational Biology**. My work bridges biology, data science, and high‑performance computing to uncover insights that support real‑world decision‑making in both **academia** and **industry**.
+I'm a completing PhD student in **Biomedical Sciences** at the **University of Auckland**, specialising in **Computational Biology**. My work bridges biology, data science, and high‑performance computing to uncover insights that support real‑world decision‑making in both **academia** and **industry**.
 
 ### 🔬 What I Work On
 - 🧬 Spatial and computational metabolomics  
