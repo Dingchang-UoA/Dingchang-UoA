@@ -16,6 +16,10 @@ I’m passionate about using data to solve meaningful problems from understandin
 - **Core Skills:** Data Science, Statistical Modelling & Predictive Analytics, Machine Learning, Image Analysis, Workflow Automation, Data Visualisation
 - **Tools:** VS Code, R Studio, Git/GitHub, Jupyter, Linux, Stata, Tableau, Power BI
 
+### 🎉 Fun Fact
+I have a cat named Evan, who regularly supervises my coding sessions.
+![IMG_0006](https://github.com/user-attachments/assets/bd7f0cfd-2b60-4f46-ad95-50f08f5f58c0)
+
 ### 📫 Let’s Connect
 If you're into data, tech, or research of any kind, feel free to reach out. I’d love to connect and collaborate!
 
